@@ -10,8 +10,10 @@
 
 int main(int argc, char **argv) {
 
-  printf("Madisen Reed and Joshua Biven \n");
-  printf("computer science and undeclared \n");
+  printf("Madisen Reed \n");
+  printf("computer science \n");
+  printf("Joshua Biven \n");
+  printf("Undeclared \n");
   
 
   return 0;
