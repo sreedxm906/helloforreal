@@ -11,6 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("Madisen Reed \n");
+  printf("hello world\n");
   printf("computer science \n");
   printf("Joshua Biven \n");
   printf("Undeclared \n");
